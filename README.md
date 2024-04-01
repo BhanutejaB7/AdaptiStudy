@@ -1,6 +1,6 @@
 # Welcome to the AdaptiStudy Project Repository!
 
-AdaptiStudy is a dynamic and innovative personalized learning web application developed in Python, Flask, and JavaScript, enriched with Machine Learning capabilities. This project was brought to life by a dedicated team of three or more individuals who collaborated to create a cutting-edge educational platform designed to enhance the learning experience for students.
+AdaptiStudy is a dynamic and innovative personalized learning web application developed in Python, Flask, and JavaScript, enriched with Machine Learning capabilities. This project was brought to life by a dedicated team of three individuals who collaborated to create a cutting-edge educational platform designed to enhance the learning experience for students.
 
 ## Key Features:
 
